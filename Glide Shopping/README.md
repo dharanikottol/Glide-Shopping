@@ -38,8 +38,7 @@ This solution leverages a building's existing Wi-Fi infrastructure and sensor in
   - `host` (String): Set to either `"production"`, `"qa"`, `"test"`, `"aisle411.ws"`, `"webservices3"`, or `"https"`.
 
 ### `MapView`
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.aisle411.com%2Fshops%2F&psig=AOvVaw3oDV76anvRODn7KXsI-q77&ust=1592504835496000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjJmP28ieoCFQAAAAAdAAAAABAI)
+
 Create a new map-view with `Aisle411.createMapView()`.
 
 #### Properties
