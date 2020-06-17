@@ -1,4 +1,5 @@
-Glide Shopping allows consumers with smart phones to pull up a map pinpointing the aisleand location of the required item of their desire in a particular store.
+Glide Shopping allows consumers with smart phones to pull up a map pinpointing the aisleand location of the required item of their desire in a particular store.It is a mobile shopping platform that allows consumers to search, map and navigate to products in retail stores down to the sections of the aisles in which they are located. 
+This solution leverages a building's existing Wi-Fi infrastructure and sensor information from mobile devices, such as data provided by the gyroscope, pedometer and compass, to deliver precise location information indoors without the need for any specialized hardware or additional infrastructure.
 
 ## Requirements (iOS)
 - File `com.aisle411.venuekit.plist` bundled with your application:
