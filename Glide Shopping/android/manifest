@@ -6,7 +6,6 @@ version: 1.0.0
 apiversion: 3
 architectures: armeabi-v7a x86
 description: titanium-aisle411
-author: Joshua Quick, Axway Appcelerator
 license: Private
 copyright: Copyright (c) 2017-present by Axway Appcelerator
 
