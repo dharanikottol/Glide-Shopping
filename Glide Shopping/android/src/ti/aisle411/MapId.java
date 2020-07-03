@@ -1,15 +1,9 @@
-/**
- * Appcelerator Titanium Mobile
- * Copyright (c) 2017 by Axway, Inc. All Rights Reserved.
- * Licensed under the terms of the Apache Public License
- * Please see the LICENSE included with this distribution for details.
- */
+
 package ti.aisle411;
 
 
 /**
  * Class used to generate a custom map URL from a map venue ID and vice-versa.
- * Intended to replicate Aisle411 iOS library's behavior for JavaScript portability.
  * <p>
  * You can only create instances of this class via the static fromVenueId() and fromUrl() methods.
  */
